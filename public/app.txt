@@ -1,0 +1,69 @@
+------------------------------------------------------------------------
+Things i learnt
+
+use .env in vite frontend, be mindful of ending / in dev and production
+add env manually b4 redeploy render
+vit.config change
+create frontend as static site on render
+------------------------------------------------------------------------
+Bookmark for later
+
+Build and Deploy Full Stack Blog MERN App | React.js (Redux, JWT and more...)
+https://www.youtube.com/watch?v=aiDGDEAqEe0
+3.10min with Github. MERN deploy Render (FE and BE)
+------------------------------------------------------------------------
+Previous Projects
+
+Building a Node.js app (as a JavaScript noob) 
+https://www.youtube.com/watch?v=wYALykLb5oY
+https://github.com/thecodercoder/dinosaur-generator
+Dino Ipsum - https://dinoipsum.com/
+Google API - https://rapidapi.com/neoscrap-net/api/google-search72
+https://rapidapi.com/search/images Page3
+
+How to Create a Express/Node + React Project | Node Backend + React Frontend 
+https://www.youtube.com/watch?v=w3vs4a03y3I
+
+Build a REST API with Node JS and Express | CRUD API Tutorial
+https://www.youtube.com/watch?v=l8WPWK9mS5M
+https://github.com/adrianhajdin/node_express_crud_api
+
+Serve a HTML Website or Single Page Application with Node and Express
+https://www.youtube.com/watch?v=fyc-4YmgLu0
+
+Build a Weather APP in Node JS 
+https://www.youtube.com/watch?v=C1m-pZGwwD4 
+https://github.com/deeppatel23/Weather-app
+
+How to Connect Node.js App to MongoDB
+https://www.youtube.com/watch?v=bhiEJW5poHU 
+
+Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch
+https://www.youtube.com/watch?v=9OfL9H6AmhQ (with MongoDB) 46mins
+
+MERN Stack Tutorial - Book Store Project 1.01mins 
+https://www.youtube.com/watch?v=-42K44A1oMA
+
+How to setup and deploy fullstack(MERN) application on Vercel and Render (with Github. Cules Coding)
+https://www.youtube.com/watch?v=ME3tMy5Q2qo
+https://github.com/thatanjan/mern-setup
+https://cules-coding.vercel.app/blog/how-to-setup-and-deploy-a-fullStack(mern)-application-on-vercel-and-render
+
+Build a Diary Web App using the MERN Stack! - Coding Tutorials by Umar Khan
+https://www.youtube.com/watch?v=rl7AVEi5hls
+2.28min with Github. MERN deploy Render (FE and BE)
+
+Full Stack MERN Todo App with MongoDB, React, Express, Node | Responsive + Deployment + Full Notes
+https://www.youtube.com/watch?v=giXuiotopO0
+2.22min MERN deploy Render (FE and BE)
+Notion ReadMe https://cyber-halibut-5bd.notion.site/Awesome-Todos-MERN-2f0ac0aadf564c39a6acd4652d9da698
+Github https://github.com/destocot/awesometodosyoutube
+LiveSite https://awesome-todos-youtube.onrender.com/
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
