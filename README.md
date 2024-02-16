@@ -34,8 +34,8 @@ Learn the MERN stack (MongoDB, Express, React, Node.js) in this crash course for
 
 ### Links
 
-- Solution URL: [https://github.com/traez/mern-stack-book-store-project-frontend](https://github.com/traez/mern-stack-book-store-project-frontend)
-- Live Site URL: [https://mern-stack-book-store-project-frontend.onrender.com/](https://mern-stack-book-store-project-frontend.onrender.com/)
+- Solution URL: [https://github.com/traez/mern-stack-book-store-project](https://github.com/traez/mern-stack-book-store-project)
+- Live Site URL: [https://mern-stack-book-store-project.onrender.com/](https://mern-stack-book-store-project.onrender.com/)
 
 ## My process
 
